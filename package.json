@@ -1,0 +1,35 @@
+{
+  "name": "typeflow",
+  "version": "1.0.0",
+  "description": "TYPEFLOW: Focused typing practice. Learn correctly from home row to full keyboard. Track weak keys, train muscle memory, build real speed.",
+  "author": "Sayed Yasir <+93 794 530 581>",
+  "license": "MIT",
+  "keywords": [
+    "typing",
+    "practice",
+    "touch-typing",
+    "keyboard",
+    "training",
+    "typing-speed",
+    "typing-accuracy",
+    "education",
+    "skill-building"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sayed-yasir/typeflow.git"
+  },
+  "homepage": "https://github.com/sayed-yasir/typeflow",
+  "bugs": {
+    "url": "https://github.com/sayed-yasir/typeflow/issues"
+  },
+  "scripts": {
+    "start": "open index.html",
+    "build": "echo 'TypeFlow is a static web app. No build step needed.'",
+    "test": "echo 'No tests configured'"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "devDependencies": {}
+}
